@@ -16,3 +16,8 @@ Be a little more you    -> 6 2 7 8 9
 ## Submission:
 
 Please fork this repo. Push your changes in a branch LASTNAME/submission, and create a pull request.
+
+
+## Part 2
+
+Now that you vectorized the dataset, we would like to create a dataloader with a batch size of 10. You can set a max sequence length of 32.
